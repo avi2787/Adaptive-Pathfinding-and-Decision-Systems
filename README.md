@@ -331,6 +331,19 @@ It combines:
 The result is a system that can be used to study how different decision-making methods behave under controlled structural variation, while still being practical and interactive to use.
 
 ---
+Home Form- 
+<img width="895" height="548" alt="image" src="https://github.com/user-attachments/assets/485c67e4-a38c-423d-b10e-6c8d0b415538" />
+Lab Mode-
+<img width="1644" height="743" alt="image" src="https://github.com/user-attachments/assets/603d6bfd-073f-4704-944b-00a05d13a248" />
+Challenge Mode-
+<img width="1440" height="950" alt="Screenshot 2026-04-11 200601" src="https://github.com/user-attachments/assets/97f80a19-414d-4b8b-9a50-259c6d9e6187" />
+Runner Role Form-
+<img width="509" height="696" alt="image" src="https://github.com/user-attachments/assets/db268a16-0d21-43f9-9e0e-c06b92b56b9b" />
+Login/Register Form-
+<img width="865" height="480" alt="image" src="https://github.com/user-attachments/assets/e5326fa0-b01c-427e-8d45-0c9472e0dfca" />
+
+
+
 
 ## Future Improvements
 
